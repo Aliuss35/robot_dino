@@ -5,7 +5,6 @@ class Dinosaur():
     self.attack_power = attack_power
     self.health= 100
 
-
   def attack(self,robot):
     new_health_of_rob = robot.health - self.attack_power
     print(f"{self.name} hit {self.attack_power} with his claws")
