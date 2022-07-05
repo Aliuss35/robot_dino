@@ -1,1 +1,2 @@
-# robot_dino
+robot_dino
+robot fights with dinosaur
